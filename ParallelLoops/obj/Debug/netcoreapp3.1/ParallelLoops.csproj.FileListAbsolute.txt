@@ -1,0 +1,13 @@
+E:\CSharp-AsyncEnum\AsyncIenumApp\ParallelLoops\bin\Debug\netcoreapp3.1\ParallelLoops.exe
+E:\CSharp-AsyncEnum\AsyncIenumApp\ParallelLoops\bin\Debug\netcoreapp3.1\ParallelLoops.deps.json
+E:\CSharp-AsyncEnum\AsyncIenumApp\ParallelLoops\bin\Debug\netcoreapp3.1\ParallelLoops.runtimeconfig.json
+E:\CSharp-AsyncEnum\AsyncIenumApp\ParallelLoops\bin\Debug\netcoreapp3.1\ParallelLoops.runtimeconfig.dev.json
+E:\CSharp-AsyncEnum\AsyncIenumApp\ParallelLoops\bin\Debug\netcoreapp3.1\ParallelLoops.dll
+E:\CSharp-AsyncEnum\AsyncIenumApp\ParallelLoops\bin\Debug\netcoreapp3.1\ParallelLoops.pdb
+E:\CSharp-AsyncEnum\AsyncIenumApp\ParallelLoops\obj\Debug\netcoreapp3.1\ParallelLoops.csprojAssemblyReference.cache
+E:\CSharp-AsyncEnum\AsyncIenumApp\ParallelLoops\obj\Debug\netcoreapp3.1\ParallelLoops.AssemblyInfoInputs.cache
+E:\CSharp-AsyncEnum\AsyncIenumApp\ParallelLoops\obj\Debug\netcoreapp3.1\ParallelLoops.AssemblyInfo.cs
+E:\CSharp-AsyncEnum\AsyncIenumApp\ParallelLoops\obj\Debug\netcoreapp3.1\ParallelLoops.csproj.CoreCompileInputs.cache
+E:\CSharp-AsyncEnum\AsyncIenumApp\ParallelLoops\obj\Debug\netcoreapp3.1\ParallelLoops.dll
+E:\CSharp-AsyncEnum\AsyncIenumApp\ParallelLoops\obj\Debug\netcoreapp3.1\ParallelLoops.pdb
+E:\CSharp-AsyncEnum\AsyncIenumApp\ParallelLoops\obj\Debug\netcoreapp3.1\ParallelLoops.genruntimeconfig.cache

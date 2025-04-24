@@ -1,0 +1,26 @@
+E:\CSharp-AsyncEnum\AsyncIenumApp\AsyncIenumApp\bin\Debug\netcoreapp3.1\AsyncIenumApp.exe
+E:\CSharp-AsyncEnum\AsyncIenumApp\AsyncIenumApp\bin\Debug\netcoreapp3.1\AsyncIenumApp.deps.json
+E:\CSharp-AsyncEnum\AsyncIenumApp\AsyncIenumApp\bin\Debug\netcoreapp3.1\AsyncIenumApp.runtimeconfig.json
+E:\CSharp-AsyncEnum\AsyncIenumApp\AsyncIenumApp\bin\Debug\netcoreapp3.1\AsyncIenumApp.runtimeconfig.dev.json
+E:\CSharp-AsyncEnum\AsyncIenumApp\AsyncIenumApp\bin\Debug\netcoreapp3.1\AsyncIenumApp.dll
+E:\CSharp-AsyncEnum\AsyncIenumApp\AsyncIenumApp\bin\Debug\netcoreapp3.1\AsyncIenumApp.pdb
+E:\CSharp-AsyncEnum\AsyncIenumApp\AsyncIenumApp\obj\Debug\netcoreapp3.1\AsyncIenumApp.csprojAssemblyReference.cache
+E:\CSharp-AsyncEnum\AsyncIenumApp\AsyncIenumApp\obj\Debug\netcoreapp3.1\AsyncIenumApp.AssemblyInfoInputs.cache
+E:\CSharp-AsyncEnum\AsyncIenumApp\AsyncIenumApp\obj\Debug\netcoreapp3.1\AsyncIenumApp.AssemblyInfo.cs
+E:\CSharp-AsyncEnum\AsyncIenumApp\AsyncIenumApp\obj\Debug\netcoreapp3.1\AsyncIenumApp.csproj.CoreCompileInputs.cache
+E:\CSharp-AsyncEnum\AsyncIenumApp\AsyncIenumApp\obj\Debug\netcoreapp3.1\AsyncIenumApp.dll
+E:\CSharp-AsyncEnum\AsyncIenumApp\AsyncIenumApp\obj\Debug\netcoreapp3.1\AsyncIenumApp.pdb
+E:\CSharp-AsyncEnum\AsyncIenumApp\AsyncIenumApp\obj\Debug\netcoreapp3.1\AsyncIenumApp.genruntimeconfig.cache
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\AsyncIenumApp\bin\Debug\netcoreapp3.1\AsyncIenumApp.exe
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\AsyncIenumApp\bin\Debug\netcoreapp3.1\AsyncIenumApp.deps.json
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\AsyncIenumApp\bin\Debug\netcoreapp3.1\AsyncIenumApp.runtimeconfig.json
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\AsyncIenumApp\bin\Debug\netcoreapp3.1\AsyncIenumApp.runtimeconfig.dev.json
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\AsyncIenumApp\bin\Debug\netcoreapp3.1\AsyncIenumApp.dll
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\AsyncIenumApp\bin\Debug\netcoreapp3.1\AsyncIenumApp.pdb
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\AsyncIenumApp\obj\Debug\netcoreapp3.1\AsyncIenumApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\AsyncIenumApp\obj\Debug\netcoreapp3.1\AsyncIenumApp.AssemblyInfoInputs.cache
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\AsyncIenumApp\obj\Debug\netcoreapp3.1\AsyncIenumApp.AssemblyInfo.cs
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\AsyncIenumApp\obj\Debug\netcoreapp3.1\AsyncIenumApp.csproj.CoreCompileInputs.cache
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\AsyncIenumApp\obj\Debug\netcoreapp3.1\AsyncIenumApp.dll
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\AsyncIenumApp\obj\Debug\netcoreapp3.1\AsyncIenumApp.pdb
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\AsyncIenumApp\obj\Debug\netcoreapp3.1\AsyncIenumApp.genruntimeconfig.cache

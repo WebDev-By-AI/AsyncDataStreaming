@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "StreamEmployees.Controllers.EmployeesController",
+    "Method": "StreamEmployees",
+    "RelativePath": "api/Employees/stream",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

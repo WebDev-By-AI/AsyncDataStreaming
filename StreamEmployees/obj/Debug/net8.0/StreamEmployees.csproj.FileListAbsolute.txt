@@ -1,0 +1,65 @@
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\StreamEmployees\bin\Debug\net8.0\appsettings.Development.json
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\StreamEmployees\bin\Debug\net8.0\appsettings.json
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\StreamEmployees\bin\Debug\net8.0\StreamEmployees.exe
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\StreamEmployees\bin\Debug\net8.0\StreamEmployees.deps.json
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\StreamEmployees\bin\Debug\net8.0\StreamEmployees.runtimeconfig.json
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\StreamEmployees\bin\Debug\net8.0\StreamEmployees.dll
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\StreamEmployees\bin\Debug\net8.0\StreamEmployees.pdb
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\StreamEmployees\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\StreamEmployees\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\StreamEmployees\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\StreamEmployees\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\StreamEmployees\obj\Debug\net8.0\StreamEmployees.csproj.AssemblyReference.cache
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\StreamEmployees\obj\Debug\net8.0\StreamEmployees.GeneratedMSBuildEditorConfig.editorconfig
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\StreamEmployees\obj\Debug\net8.0\StreamEmployees.AssemblyInfoInputs.cache
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\StreamEmployees\obj\Debug\net8.0\StreamEmployees.AssemblyInfo.cs
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\StreamEmployees\obj\Debug\net8.0\StreamEmployees.csproj.CoreCompileInputs.cache
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\StreamEmployees\obj\Debug\net8.0\StreamEmployees.MvcApplicationPartsAssemblyInfo.cs
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\StreamEmployees\obj\Debug\net8.0\StreamEmployees.MvcApplicationPartsAssemblyInfo.cache
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\StreamEmployees\obj\Debug\net8.0\staticwebassets.build.json
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\StreamEmployees\obj\Debug\net8.0\staticwebassets.development.json
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\StreamEmployees\obj\Debug\net8.0\staticwebassets\msbuild.StreamEmployees.Microsoft.AspNetCore.StaticWebAssets.props
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\StreamEmployees\obj\Debug\net8.0\staticwebassets\msbuild.build.StreamEmployees.props
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\StreamEmployees\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StreamEmployees.props
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\StreamEmployees\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StreamEmployees.props
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\StreamEmployees\obj\Debug\net8.0\staticwebassets.pack.json
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\StreamEmployees\obj\Debug\net8.0\scopedcss\bundle\StreamEmployees.styles.css
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\StreamEmployees\obj\Debug\net8.0\StreamEm.738BD82B.Up2Date
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\StreamEmployees\obj\Debug\net8.0\StreamEmployees.dll
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\StreamEmployees\obj\Debug\net8.0\refint\StreamEmployees.dll
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\StreamEmployees\obj\Debug\net8.0\StreamEmployees.pdb
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\StreamEmployees\obj\Debug\net8.0\StreamEmployees.genruntimeconfig.cache
+D:\2024 Data\E Drive\CSharp-AsyncEnum\AsyncIenumApp\StreamEmployees\obj\Debug\net8.0\ref\StreamEmployees.dll
+C:\Users\Admin\source\repos\AsyncDataStreaming\StreamEmployees\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\source\repos\AsyncDataStreaming\StreamEmployees\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\source\repos\AsyncDataStreaming\StreamEmployees\bin\Debug\net8.0\StreamEmployees.exe
+C:\Users\Admin\source\repos\AsyncDataStreaming\StreamEmployees\bin\Debug\net8.0\StreamEmployees.deps.json
+C:\Users\Admin\source\repos\AsyncDataStreaming\StreamEmployees\bin\Debug\net8.0\StreamEmployees.runtimeconfig.json
+C:\Users\Admin\source\repos\AsyncDataStreaming\StreamEmployees\bin\Debug\net8.0\StreamEmployees.dll
+C:\Users\Admin\source\repos\AsyncDataStreaming\StreamEmployees\bin\Debug\net8.0\StreamEmployees.pdb
+C:\Users\Admin\source\repos\AsyncDataStreaming\StreamEmployees\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Admin\source\repos\AsyncDataStreaming\StreamEmployees\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\source\repos\AsyncDataStreaming\StreamEmployees\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\source\repos\AsyncDataStreaming\StreamEmployees\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\source\repos\AsyncDataStreaming\StreamEmployees\obj\Debug\net8.0\StreamEmployees.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\AsyncDataStreaming\StreamEmployees\obj\Debug\net8.0\StreamEmployees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\AsyncDataStreaming\StreamEmployees\obj\Debug\net8.0\StreamEmployees.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\AsyncDataStreaming\StreamEmployees\obj\Debug\net8.0\StreamEmployees.AssemblyInfo.cs
+C:\Users\Admin\source\repos\AsyncDataStreaming\StreamEmployees\obj\Debug\net8.0\StreamEmployees.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AsyncDataStreaming\StreamEmployees\obj\Debug\net8.0\StreamEmployees.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\source\repos\AsyncDataStreaming\StreamEmployees\obj\Debug\net8.0\StreamEmployees.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\source\repos\AsyncDataStreaming\StreamEmployees\obj\Debug\net8.0\StreamEmployees.sourcelink.json
+C:\Users\Admin\source\repos\AsyncDataStreaming\StreamEmployees\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\source\repos\AsyncDataStreaming\StreamEmployees\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\source\repos\AsyncDataStreaming\StreamEmployees\obj\Debug\net8.0\staticwebassets\msbuild.StreamEmployees.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\source\repos\AsyncDataStreaming\StreamEmployees\obj\Debug\net8.0\staticwebassets\msbuild.build.StreamEmployees.props
+C:\Users\Admin\source\repos\AsyncDataStreaming\StreamEmployees\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StreamEmployees.props
+C:\Users\Admin\source\repos\AsyncDataStreaming\StreamEmployees\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StreamEmployees.props
+C:\Users\Admin\source\repos\AsyncDataStreaming\StreamEmployees\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\source\repos\AsyncDataStreaming\StreamEmployees\obj\Debug\net8.0\scopedcss\bundle\StreamEmployees.styles.css
+C:\Users\Admin\source\repos\AsyncDataStreaming\StreamEmployees\obj\Debug\net8.0\StreamEm.738BD82B.Up2Date
+C:\Users\Admin\source\repos\AsyncDataStreaming\StreamEmployees\obj\Debug\net8.0\StreamEmployees.dll
+C:\Users\Admin\source\repos\AsyncDataStreaming\StreamEmployees\obj\Debug\net8.0\refint\StreamEmployees.dll
+C:\Users\Admin\source\repos\AsyncDataStreaming\StreamEmployees\obj\Debug\net8.0\StreamEmployees.pdb
+C:\Users\Admin\source\repos\AsyncDataStreaming\StreamEmployees\obj\Debug\net8.0\StreamEmployees.genruntimeconfig.cache
+C:\Users\Admin\source\repos\AsyncDataStreaming\StreamEmployees\obj\Debug\net8.0\ref\StreamEmployees.dll

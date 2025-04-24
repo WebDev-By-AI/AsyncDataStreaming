@@ -1,0 +1,88 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employee Records</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h1>Employee Records</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody id="employee-table-body">
+            <!-- Rows will be added dynamically here -->
+        </tbody>
+    </table>
+
+    <script>
+
+
+        fetch("https://localhost:7142/api/employees/stream")
+            .then((response) => response.body)
+            .then((body) =>
+            {
+                const reader = body.getReader();
+                const decoder = new TextDecoder();
+
+
+                function processChunk({ done, value })
+                {
+                    if (done)
+                    {
+                        console.log("Stream complete");
+                        return;
+                    }
+
+                    const chunk = decoder.decode(value);
+                    chunk.split("\n").forEach((line) =>
+                    {
+                        const trimmedLine = line.trim();
+
+                        // Skip empty lines
+                        if (!trimmedLine) return;
+
+                        // Handle only lines starting with "data:"
+                        if (trimmedLine.startsWith("data:"))
+                        {
+                            const jsonData = trimmedLine.substring(5).trim(); // Remove "data:" prefix
+                            const employee = JSON.parse(jsonData);
+
+                            const row = document.createElement("tr");
+                            row.innerHTML = `<td>${employee.Id}</td><td>${employee.Name}</td><td>${employee.Email}</td><td>${employee.Status}</td>`;
+                            document.getElementById("employee-table-body").appendChild(row);
+                        }
+                    });
+
+                    return reader.read().then(processChunk);
+                }
+
+                return reader.read().then(processChunk);
+            })
+            .catch((error) => console.error("Error fetching stream:", error));
+
+    </script>
+</body>
+</html>
